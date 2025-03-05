@@ -33,3 +33,5 @@
 # don't ignore .github
 !.github/
 !.github/**
+
+!binaryHexDisp/
