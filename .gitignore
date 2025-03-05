@@ -35,3 +35,4 @@
 !.github/**
 
 !binaryHexDisp/
+!binaryHexDisp/**
